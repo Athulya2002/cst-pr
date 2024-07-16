@@ -1,1 +1,2 @@
-This is a simple python project which print hello world.
+#print ("hello world")
+this is a simple python program to print hello world
